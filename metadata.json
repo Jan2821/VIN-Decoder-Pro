@@ -1,0 +1,5 @@
+{
+  "name": "VIN Decoder Pro",
+  "description": "Professionelle Fahrzeugidentifikationsnummer (VIN) Analyse mit detaillierten Ausstattungsmerkmalen, technischen Daten und PDF-Export.",
+  "requestFramePermissions": []
+}
